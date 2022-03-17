@@ -1,3 +1,9 @@
+ <img src="https://cdnfa.com/s/logo/icon-1000.png" align="right" width="100" height="90" />
+
+# Shopfa
+> check list  shopfa theme for front-end Develoepr
+
+
  هدر دسکتاپ 
 - [x]  این منو اهمیت کمتری دارد و باید فضای کمتری از هدر را اشغال کند  و باید تک سطری طراحی شود`menu_1` 
 - [ ] این منو  منوی اصلی سایت است  و باید در حالت های دراپ داون و منوی خودکار استایل داده شود  ``menu_2``
