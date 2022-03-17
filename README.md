@@ -1,3 +1,5 @@
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+ هدر دسکتاپ 
+- [x]  این منو اهمیت کمتری دارد و باید فضای کمتری از هدر را اشغال کند  و باید تک سطری طراحی شود`menu_1` 
+- [ ] این منو  منوی اصلی سایت است  و باید در حالت های دراپ داون و منوی خودکار استایل داده شود  ``menu_2``
+
+```
